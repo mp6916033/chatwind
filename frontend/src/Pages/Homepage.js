@@ -11,7 +11,7 @@ function HomePage() {
       <nav className="navbar">
         <div className="navbar-container">
           <Link to="#">
-            <div className="navbar-logo">ChatMind</div>
+            <div className="navbar-logo">ChatWind</div>
           </Link>
           <div className="navbar-menu">
             </div>
