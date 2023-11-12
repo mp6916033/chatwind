@@ -14,10 +14,6 @@ function HomePage() {
             <div className="navbar-logo">ChatMind</div>
           </Link>
           <div className="navbar-menu">
-            <div className="navbar-item">
-              {location.pathname === "/login"
-                ? "Ready to ChatMind? Let's Login"
-                : "Join the ChatMind community !"}
             </div>
           </div>
         </div>
